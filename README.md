@@ -1,5 +1,5 @@
-# ACSNI
-Automatic context-specific network inference
+# ACSNI-PyTorch
+Pytorch reimplementation of [Automatic context-specific network inference](https://github.com/caanene1/ACSNI)
 
 Determining tissue- and disease-specific circuit of biological pathways remains a fundamental goal of molecular biology.
 Many components of these biological pathways still remain unknown, hindering the full and accurate characterisation of
